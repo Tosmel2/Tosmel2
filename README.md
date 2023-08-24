@@ -7,7 +7,7 @@ Adewale/README.md
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently studying at ALX, and I'm learning Full Stack.
+- 🌱 I graduated from ALX SE and was among top 10% talent, and I'm now a Full Stack.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 <hr>
-I'm Adewale Tosin, A passionate self-taught frontend developer <br>
+I'm Adewale Tosin, A passionate full stack software developer <br>
 I'm an open-source enthusiast and frontend instructor at NewHorizons ICT Nigeria.<br> 
 I learned a lot from the open-source community and I love how collaboration and <br>
 knowledge sharing happened through open-source. I share my knowledge by teaching<br> 
