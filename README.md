@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <hr>
 I'm Adewale Tosin, A passionate full stack software developer <br>
-I'm an open-source enthusiast and frontend instructor at NewHorizons ICT Nigeria.<br> 
+I'm an open-source enthusiast and once a frontend instructor at NewHorizons ICT Nigeria.<br> 
 I learned a lot from the open-source community and I love how collaboration and <br>
 knowledge sharing happened through open-source. I share my knowledge by teaching<br> 
 and coaching students as I discover more ways to explain complex technologies<br>
