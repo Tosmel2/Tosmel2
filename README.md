@@ -32,10 +32,7 @@ to students with different abilities and I get more excited when they finally ge
 <!-- <b>Technologies:</b> -->
 
 <div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">✨ Technologies &amp; Tools:</h2><a id="user-content--technologies--tools" class="anchor" aria-label="Permalink: ✨ Technologies &amp; Tools:" href="#-technologies--tools"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; background-color: red;">
 <p align="left" dir="auto">
-
-
 <a target="_blank" rel="noopener noreferrer nofollow">
     <img alt="Next JS logo" title="Next JS" height="25" src="https://img.shields.io/badge/Next JS-282C34?logo=nextdotjs" >
 </a>
@@ -127,10 +124,6 @@ to students with different abilities and I get more excited when they finally ge
 <a target="_blank" rel="noopener noreferrer nofollow">
     <img alt="Babel logo" title="Babel" height="25" src="https://img.shields.io/badge/Babel-282C34?logo=babel&amp;logoColor=F7DF1E" style="max-width: 100%;">
 </a>
-
-<a href="https://www.postgresql.org/" target="_blank">
-  <img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=4169E1" height="25" />
-</a>
  
 <a target="_blank" rel="noopener noreferrer nofollow">
     <img alt="VS Code logo" title="VS Code" height="25" src="https://img.shields.io/badge/VS Code-282C34?logo=visualstudiocode&amp;logoColor=007ACC" style="max-width: 100%;">
@@ -153,7 +146,7 @@ to students with different abilities and I get more excited when they finally ge
     <img alt="Jira logo" title="Jira" height="25" src="https://img.shields.io/badge/Jira-282C34?logo=jirasoftware&amp;logoColor=0052CC" style="max-width: 100%;"></a>
 </p><br>
 
-<b>Currently Learning:</b><br>
+<strong>Currently Learning:</strong><br>
 <b>
 
 <a href="https://www.oracle.com/java/" target="_blank">
