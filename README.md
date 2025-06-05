@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 <hr>
-I'm Adewale Tosin, A passionate full stack software developer <br>
+My name is Adewale Tosin, A passionate full stack software developer <br>
 I'm an open-source enthusiast and once a frontend instructor at NewHorizons ICT Nigeria.<br> 
 I learned a lot from the open-source community and I love how collaboration and <br>
 knowledge sharing happened through open-source. I share my knowledge by teaching<br> 
@@ -32,73 +32,142 @@ to students with different abilities and I get more excited when they finally ge
 <!-- <b>Technologies:</b> -->
 
 <div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">✨ Technologies &amp; Tools:</h2><a id="user-content--technologies--tools" class="anchor" aria-label="Permalink: ✨ Technologies &amp; Tools:" href="#-technologies--tools"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; background-color: red;">
 <p align="left" dir="auto">
 
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9c1c1e51b8a86ed1d242aeae054fd7224848421396f94f6164d4a1468e4d78da/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e657874204a532d3238324333343f6c6f676f3d6e657874646f746a73"><img src="https://camo.githubusercontent.com/9c1c1e51b8a86ed1d242aeae054fd7224848421396f94f6164d4a1468e4d78da/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e657874204a532d3238324333343f6c6f676f3d6e657874646f746a73" alt="Next JS logo" title="Next JS" height="25" data-canonical-src="https://img.shields.io/badge/Next JS-282C34?logo=nextdotjs" style="max-width: 100%;"></a>
+
+<a target="_blank" rel="noopener noreferrer nofollow">
+    <img alt="Next JS logo" title="Next JS" height="25" src="https://img.shields.io/badge/Next JS-282C34?logo=nextdotjs" >
+</a>
  
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7bcb6d94c4c163278596ba0e3e4b8835e52205869f99b2313f1ccf1afdaf9531/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5265616374204a532d3238324333343f6c6f676f3d7265616374266c6f676f436f6c6f723d363144414642"><img src="https://camo.githubusercontent.com/7bcb6d94c4c163278596ba0e3e4b8835e52205869f99b2313f1ccf1afdaf9531/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5265616374204a532d3238324333343f6c6f676f3d7265616374266c6f676f436f6c6f723d363144414642" alt="React JS logo" title="React JS" height="25" data-canonical-src="https://img.shields.io/badge/React JS-282C34?logo=react&amp;logoColor=61DAFB" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow">
+    <img alt="React JS logo" title="React JS" height="25" src="https://img.shields.io/badge/React JS-282C34?logo=react&amp;logoColor=61DAFB">
+</a>
  
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c2191081a3bfd6c73c30c7627d4a78698926d38c0f249510dd1fb60d1da4c247/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d3238324333343f6c6f676f3d74797065736372697074266c6f676f436f6c6f723d333137384336"><img src="https://camo.githubusercontent.com/c2191081a3bfd6c73c30c7627d4a78698926d38c0f249510dd1fb60d1da4c247/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d3238324333343f6c6f676f3d74797065736372697074266c6f676f436f6c6f723d333137384336" alt="TypeScript logo" title="TypeScript" height="25" data-canonical-src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&amp;logoColor=3178C6" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow">
+    <img alt="TypeScript logo" title="TypeScript" height="25" src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&amp;logoColor=3178C6">
+</a>
  
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/fe3edddc01d00ec9c3b4f3c96ca48d3bf3aa1079dd959da27404d1c086f7f87f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d3238324333343f6c6f676f3d6a617661736372697074266c6f676f436f6c6f723d463744463145"><img src="https://camo.githubusercontent.com/fe3edddc01d00ec9c3b4f3c96ca48d3bf3aa1079dd959da27404d1c086f7f87f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d3238324333343f6c6f676f3d6a617661736372697074266c6f676f436f6c6f723d463744463145" alt="JavaScript logo" title="JavaScript" height="25" data-canonical-src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&amp;logoColor=F7DF1E" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow">
+    <img alt="JavaScript logo" title="JavaScript" height="25" src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&amp;logoColor=F7DF1E">
+</a>
  
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/cbc83a3a616c0941cac3f9db74247f056c6ee576012dc140c9ed3ccb6390cee4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656475782d3238324333343f6c6f676f3d7265647578266c6f676f436f6c6f723d373634414243"><img src="https://camo.githubusercontent.com/cbc83a3a616c0941cac3f9db74247f056c6ee576012dc140c9ed3ccb6390cee4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656475782d3238324333343f6c6f676f3d7265647578266c6f676f436f6c6f723d373634414243" alt="Redux logo" title="Redux" height="25" data-canonical-src="https://img.shields.io/badge/Redux-282C34?logo=redux&amp;logoColor=764ABC" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow">
+    <img alt="Redux logo" title="Redux" height="25" src="https://img.shields.io/badge/Redux-282C34?logo=redux&amp;logoColor=764ABC">
+</a>
  
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/75eab0106ede4858d4f8b53ac5aafa519bdcd3c348a7f227cb178802958041b3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5461696c77696e64204353532d3238324333343f6c6f676f3d7461696c77696e64637373266c6f676f436f6c6f723d303642364434"><img src="https://camo.githubusercontent.com/75eab0106ede4858d4f8b53ac5aafa519bdcd3c348a7f227cb178802958041b3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5461696c77696e64204353532d3238324333343f6c6f676f3d7461696c77696e64637373266c6f676f436f6c6f723d303642364434" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" data-canonical-src="https://img.shields.io/badge/Tailwind CSS-282C34?logo=tailwindcss&amp;logoColor=06B6D4" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow">
+    <img alt="Tailwind CSS logo" title="Tailwind CSS" height="25" src="https://img.shields.io/badge/Tailwind CSS-282C34?logo=tailwindcss&amp;logoColor=06B6D4" style="max-width: 100%;">
+</a>
  
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7e9f02edb1fd724bb9aa33dce8ed4f2b5a7aecc3891a16698c71be877b3f6fca/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536173732d3238324333343f6c6f676f3d73617373266c6f676f436f6c6f723d30364236"><img src="https://camo.githubusercontent.com/7e9f02edb1fd724bb9aa33dce8ed4f2b5a7aecc3891a16698c71be877b3f6fca/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536173732d3238324333343f6c6f676f3d73617373266c6f676f436f6c6f723d30364236" alt="SASS logo" title="Sass" height="25" data-canonical-src="https://img.shields.io/badge/Sass-282C34?logo=sass&amp;logoColor=06B6" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow">
+    <img alt="SASS logo" title="Sass" height="25" src="https://img.shields.io/badge/Sass-282C34?logo=sass&amp;logoColor=06B6" style="max-width: 100%;">
+</a>
  
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e5658d6e95269a7a825ad2850d78a6cc5a666e5f1912accb5c65e2e15b9a3656/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6174657269616c2055492d3238324333343f6c6f676f3d6d7569266c6f676f436f6c6f723d303037464646"><img src="https://camo.githubusercontent.com/e5658d6e95269a7a825ad2850d78a6cc5a666e5f1912accb5c65e2e15b9a3656/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6174657269616c2055492d3238324333343f6c6f676f3d6d7569266c6f676f436f6c6f723d303037464646" alt="Material UI logo" title="Material UI" height="25" data-canonical-src="https://img.shields.io/badge/Material UI-282C34?logo=mui&amp;logoColor=007FFF" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow">
+    <img alt="Material UI logo" title="Material UI" height="25" src="https://img.shields.io/badge/Material UI-282C34?logo=mui&amp;logoColor=007FFF" style="max-width: 100%;">
+</a>
  
 <br>
 <br>
 
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/837f389bbf2cdbb654251c8c28947e316fb7b7d8b9cd4b220e4b74b7f5e21feb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f6465204a532d3238324333343f6c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d333339393333"><img src="https://camo.githubusercontent.com/837f389bbf2cdbb654251c8c28947e316fb7b7d8b9cd4b220e4b74b7f5e21feb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f6465204a532d3238324333343f6c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d333339393333" alt="Node JS logo" title="Node JS" height="25" data-canonical-src="https://img.shields.io/badge/Node JS-282C34?logo=node.js&amp;logoColor=339933" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow">
+    <img alt="Node JS logo" title="Node JS" height="25" src="https://img.shields.io/badge/Node JS-282C34?logo=node.js&amp;logoColor=339933" style="max-width: 100%;">
+</a>
  
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3328ab83c8aa42b3dede590196a16b2260fb300d107bb7f0db996bf286475acd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507269736d612d3238324333343f6c6f676f3d707269736d61"><img src="https://camo.githubusercontent.com/3328ab83c8aa42b3dede590196a16b2260fb300d107bb7f0db996bf286475acd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507269736d612d3238324333343f6c6f676f3d707269736d61" alt="Prisma logo" title="Prisma" height="25" data-canonical-src="https://img.shields.io/badge/Prisma-282C34?logo=prisma" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow">
+    <img alt="Prisma logo" title="Prisma" height="25" src="https://img.shields.io/badge/Prisma-282C34?logo=prisma" style="max-width: 100%;">
+</a>
  
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e8dfb8bc7385f8fba45b78f2b73565b70c7e5d2f8e8549bafebb9d5f23543604/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f45787072657373204a532d3238324333343f6c6f676f3d65787072657373266c6f676f436f6c6f723d303030303030"><img src="https://camo.githubusercontent.com/e8dfb8bc7385f8fba45b78f2b73565b70c7e5d2f8e8549bafebb9d5f23543604/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f45787072657373204a532d3238324333343f6c6f676f3d65787072657373266c6f676f436f6c6f723d303030303030" alt="Express JS logo" title="Express JS" height="25" data-canonical-src="https://img.shields.io/badge/Express JS-282C34?logo=express&amp;logoColor=000000" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow">
+    <img alt="Express JS logo" title="Express JS" height="25" src="https://img.shields.io/badge/Express JS-282C34?logo=express&amp;logoColor=000000" style="max-width: 100%;">
+</a>
  
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ca0f133a97014bcf910577ec1a53fe6edd90f9b3867462a3683a021ebd24f35b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d3238324333343f6c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d343741323438"><img src="https://camo.githubusercontent.com/ca0f133a97014bcf910577ec1a53fe6edd90f9b3867462a3683a021ebd24f35b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d3238324333343f6c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d343741323438" alt="MongoDB logo" title="MongoDB" height="25" data-canonical-src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&amp;logoColor=47A248" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow">
+    <img alt="MongoDB logo" title="MongoDB" height="25" src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&amp;logoColor=47A248" style="max-width: 100%;">
+</a>
  
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/bfac3cd7d1ff88eb8fce7cb5cca4accb239d4470158cec5ab827fae2cb7bf260/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3238324333343f6c6f676f3d6d7973716c266c6f676f436f6c6f723d34313639"><img src="https://camo.githubusercontent.com/bfac3cd7d1ff88eb8fce7cb5cca4accb239d4470158cec5ab827fae2cb7bf260/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3238324333343f6c6f676f3d6d7973716c266c6f676f436f6c6f723d34313639" alt="MySQL logo" title="MySQL" height="25" data-canonical-src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&amp;logoColor=4169" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow">
+    <img alt="MySQL logo" title="MySQL" height="25" src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&amp;logoColor=4169" style="max-width: 100%;">
+</a>
+
+<a href="https://www.postgresql.org/" target="_blank">
+  <img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=4169E1" height="25" />
+</a>
  
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ec0dee6ae0d19dd4c7aae02d1f210d5139fad5ff7d43020789c625bb82711733/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46697265626173652d3238324333343f6c6f676f3d6669726562617365266c6f676f436f6c6f723d463234453145"><img src="https://camo.githubusercontent.com/ec0dee6ae0d19dd4c7aae02d1f210d5139fad5ff7d43020789c625bb82711733/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46697265626173652d3238324333343f6c6f676f3d6669726562617365266c6f676f436f6c6f723d463234453145" alt="Firebase logo" title="Firebase" height="25" data-canonical-src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&amp;logoColor=F24E1E" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow">
+    <img alt="Firebase logo" title="Firebase" height="25" src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&amp;logoColor=F24E1E" style="max-width: 100%;">
+</a>
  
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2ed2b707abf4714ad3793e70609ebaec2a66013e7aa711e21a0a016d91dae3c5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50617373706f7274204a532d3238324333343f6c6f676f3d70617373706f7274266c6f676f436f6c6f723d333445323741"><img src="https://camo.githubusercontent.com/2ed2b707abf4714ad3793e70609ebaec2a66013e7aa711e21a0a016d91dae3c5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50617373706f7274204a532d3238324333343f6c6f676f3d70617373706f7274266c6f676f436f6c6f723d333445323741" alt="Passport JS logo" title="Passport JS" height="25" data-canonical-src="https://img.shields.io/badge/Passport JS-282C34?logo=passport&amp;logoColor=34E27A" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow">
+    <img alt="Passport JS logo" title="Passport JS" height="25" src="https://img.shields.io/badge/Passport JS-282C34?logo=passport&amp;logoColor=34E27A" style="max-width: 100%;">
+</a>
+  
+<a target="_blank" rel="noopener noreferrer nofollow">
+    <img alt="Jest logo" title="Jest" height="25" src="https://img.shields.io/badge/Jest-282C34?logo=jest&amp;logoColor=FF6C37" style="max-width: 100%;">
+</a>
  
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5be040683820896a8707a284ecfed5e998ec7341343021e9cc1781a302f2f62c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5374726970652d3238324333343f6c6f676f3d737472697065266c6f676f436f6c6f723d303038434444"><img src="https://camo.githubusercontent.com/5be040683820896a8707a284ecfed5e998ec7341343021e9cc1781a302f2f62c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5374726970652d3238324333343f6c6f676f3d737472697065266c6f676f436f6c6f723d303038434444" alt="Stripe logo" title="Stripe" height="25" data-canonical-src="https://img.shields.io/badge/Stripe-282C34?logo=stripe&amp;logoColor=008CDD" style="max-width: 100%;"></a>
- 
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/278922cd6e855047fbc7fd5ae19d2d7f0fe2042af88064c43980823c9c86b187/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6573742d3238324333343f6c6f676f3d6a657374266c6f676f436f6c6f723d464636433337"><img src="https://camo.githubusercontent.com/278922cd6e855047fbc7fd5ae19d2d7f0fe2042af88064c43980823c9c86b187/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6573742d3238324333343f6c6f676f3d6a657374266c6f676f436f6c6f723d464636433337" alt="Jest logo" title="Jest" height="25" data-canonical-src="https://img.shields.io/badge/Jest-282C34?logo=jest&amp;logoColor=FF6C37" style="max-width: 100%;"></a>
- 
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c51295b6b33fb357032b58a73bb729f33c943dd78682c96c19155833c35852a7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426162656c2d3238324333343f6c6f676f3d626162656c266c6f676f436f6c6f723d463744463145"><img src="https://camo.githubusercontent.com/c51295b6b33fb357032b58a73bb729f33c943dd78682c96c19155833c35852a7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426162656c2d3238324333343f6c6f676f3d626162656c266c6f676f436f6c6f723d463744463145" alt="Babel logo" title="Babel" height="25" data-canonical-src="https://img.shields.io/badge/Babel-282C34?logo=babel&amp;logoColor=F7DF1E" style="max-width: 100%;"></a>
+
  
 <br>
 <br>
 
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f01eb1ec5b876fc907742546bf6a27be32f89b7ec9d0030b329fcbde49142ce1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f636b65722d3238324333343f6c6f676f3d646f636b6572266c6f676f436f6c6f723d323439364544"><img src="https://camo.githubusercontent.com/f01eb1ec5b876fc907742546bf6a27be32f89b7ec9d0030b329fcbde49142ce1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f636b65722d3238324333343f6c6f676f3d646f636b6572266c6f676f436f6c6f723d323439364544" alt="Docker logo" title="Docker" height="25" data-canonical-src="https://img.shields.io/badge/Docker-282C34?logo=docker&amp;logoColor=2496ED" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow">
+    <img alt="Docker logo" title="Docker" height="25" src="https://img.shields.io/badge/Docker-282C34?logo=docker&amp;logoColor=2496ED" style="max-width: 100%;">
+</a>
  
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/80f6ff3e9448fcc4f7964c6e13489bce44c13804e280e3f8f695511a2d89b73b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476f6f676c6520436c6f75642d3238324333343f6c6f676f3d676f6f676c65636c6f7564266c6f676f436f6c6f723d"><img src="https://camo.githubusercontent.com/80f6ff3e9448fcc4f7964c6e13489bce44c13804e280e3f8f695511a2d89b73b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476f6f676c6520436c6f75642d3238324333343f6c6f676f3d676f6f676c65636c6f7564266c6f676f436f6c6f723d" alt="Google Cloud logo" title="Google Cloud" height="25" data-canonical-src="https://img.shields.io/badge/Google Cloud-282C34?logo=googlecloud&amp;logoColor=" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow">
+    <img alt="Google Cloud logo" title="Google Cloud" height="25" src="https://img.shields.io/badge/Google Cloud-282C34?logo=googlecloud&amp;logoColor=" style="max-width: 100%;">
+</a>
  
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f86bf505af92b89bbd62897469354466d2ac0ffb210893c698d185f54a021a50/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4469676974616c204f6365616e2d3238324333343f6c6f676f3d6469676974616c6f6365616e266c6f676f436f6c6f723d303038304646"><img src="https://camo.githubusercontent.com/f86bf505af92b89bbd62897469354466d2ac0ffb210893c698d185f54a021a50/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4469676974616c204f6365616e2d3238324333343f6c6f676f3d6469676974616c6f6365616e266c6f676f436f6c6f723d303038304646" alt="Digital Ocean logo" title="Digital Ocean" height="25" data-canonical-src="https://img.shields.io/badge/Digital Ocean-282C34?logo=digitalocean&amp;logoColor=0080FF" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow">
+    <img alt="Digital Ocean logo" title="Digital Ocean" height="25" src="https://img.shields.io/badge/Digital Ocean-282C34?logo=digitalocean&amp;logoColor=0080FF" style="max-width: 100%;">
+</a>
+
+<a target="_blank" rel="noopener noreferrer nofollow">
+    <img alt="Babel logo" title="Babel" height="25" src="https://img.shields.io/badge/Babel-282C34?logo=babel&amp;logoColor=F7DF1E" style="max-width: 100%;">
+</a>
+
+<a href="https://www.postgresql.org/" target="_blank">
+  <img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=4169E1" height="25" />
+</a>
  
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/bf6e5adf0b1e7eced5c90015f31cf17c7f9f31ab923000b0e07eca03945c26a4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f565320436f64652d3238324333343f6c6f676f3d76697375616c73747564696f636f6465266c6f676f436f6c6f723d303037414343"><img src="https://camo.githubusercontent.com/bf6e5adf0b1e7eced5c90015f31cf17c7f9f31ab923000b0e07eca03945c26a4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f565320436f64652d3238324333343f6c6f676f3d76697375616c73747564696f636f6465266c6f676f436f6c6f723d303037414343" alt="VS Code logo" title="VS Code" height="25" data-canonical-src="https://img.shields.io/badge/VS Code-282C34?logo=visualstudiocode&amp;logoColor=007ACC" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow">
+    <img alt="VS Code logo" title="VS Code" height="25" src="https://img.shields.io/badge/VS Code-282C34?logo=visualstudiocode&amp;logoColor=007ACC" style="max-width: 100%;">
+</a>
  
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c5941f8df6b794c569c92a10f66612bf53c387510e46fbd7add50fda5f141f18/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d3238324333343f6c6f676f3d706f73746d616e266c6f676f436f6c6f723d464636433337"><img src="https://camo.githubusercontent.com/c5941f8df6b794c569c92a10f66612bf53c387510e46fbd7add50fda5f141f18/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d3238324333343f6c6f676f3d706f73746d616e266c6f676f436f6c6f723d464636433337" alt="Postman logo" title="Postman" height="25" data-canonical-src="https://img.shields.io/badge/Postman-282C34?logo=postman&amp;logoColor=FF6C37" style="max-width: 100%;"></a>
  
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/43a66a410acf74b4bfbc71435baba4422dc314290d392481479de3313bf20e66/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d3238324333343f6c6f676f3d676974266c6f676f436f6c6f723d463035303332"><img src="https://camo.githubusercontent.com/43a66a410acf74b4bfbc71435baba4422dc314290d392481479de3313bf20e66/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d3238324333343f6c6f676f3d676974266c6f676f436f6c6f723d463035303332" alt="Git logo" title="Git" height="25" data-canonical-src="https://img.shields.io/badge/Git-282C34?logo=git&amp;logoColor=F05032" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="/">
+    <img alt="Postman logo" title="Postman" height="25" src="https://img.shields.io/badge/Postman-282C34?logo=postman&amp;logoColor=FF6C37" style="max-width: 100%;">
+</a>
  
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0b47c35d1cae1399104675bdfc6a33b7a65dc278abb2003861ee024d03c23a17/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4669676d612d3238324333343f6c6f676f3d6669676d61266c6f676f436f6c6f723d463234453145"><img src="https://camo.githubusercontent.com/0b47c35d1cae1399104675bdfc6a33b7a65dc278abb2003861ee024d03c23a17/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4669676d612d3238324333343f6c6f676f3d6669676d61266c6f676f436f6c6f723d463234453145" alt="Figma logo" title="Figma" height="25" data-canonical-src="https://img.shields.io/badge/Figma-282C34?logo=figma&amp;logoColor=F24E1E" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow">
+    <img alt="Git logo" title="Git" height="25" src="https://img.shields.io/badge/Git-282C34?logo=git&amp;logoColor=F05032" style="max-width: 100%;">
+</a>
  
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1b6eea6ccb347ff66eb55676c66a0f644c34aa9df3020e518b20eaaca3f22b9a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6972612d3238324333343f6c6f676f3d6a697261736f667477617265266c6f676f436f6c6f723d303035324343"><img src="https://camo.githubusercontent.com/1b6eea6ccb347ff66eb55676c66a0f644c34aa9df3020e518b20eaaca3f22b9a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6972612d3238324333343f6c6f676f3d6a697261736f667477617265266c6f676f436f6c6f723d303035324343" alt="Jira logo" title="Jira" height="25" data-canonical-src="https://img.shields.io/badge/Jira-282C34?logo=jirasoftware&amp;logoColor=0052CC" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow">
+    <img alt="Figma logo" title="Figma" height="25" src="https://img.shields.io/badge/Figma-282C34?logo=figma&amp;logoColor=F24E1E" style="max-width: 100%;">
+</a>
+ 
+<a target="_blank" rel="noopener noreferrer nofollow" href="/">
+    <img alt="Jira logo" title="Jira" height="25" src="https://img.shields.io/badge/Jira-282C34?logo=jirasoftware&amp;logoColor=0052CC" style="max-width: 100%;"></a>
 </p><br>
 
-<b>Currently Learning:</b><br><br>
+<b>Currently Learning:</b><br>
 <b>
 
- <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/8849f369ac031cc842a4ab4248c7f7db6a4b593cad1f2d1c01d3aeb6f0f8dca7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536173732d4343363639393f7374796c653d666f722d7468652d6261646765266c6f676f3d73617373266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/8849f369ac031cc842a4ab4248c7f7db6a4b593cad1f2d1c01d3aeb6f0f8dca7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536173732d4343363639393f7374796c653d666f722d7468652d6261646765266c6f676f3d73617373266c6f676f436f6c6f723d7768697465" alt="JAVA" data-canonical-src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" style="max-width: 100%;"></a>
- 
- <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/bac5c7f45fe7c116b5f8c9d61c4611b31f635301a841bf8dcf1b89b8fcfa4824/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f66697265626173652d6666636132383f7374796c653d666f722d7468652d6261646765266c6f676f3d6669726562617365266c6f676f436f6c6f723d626c61636b"><img src="https://camo.githubusercontent.com/bac5c7f45fe7c116b5f8c9d61c4611b31f635301a841bf8dcf1b89b8fcfa4824/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f66697265626173652d6666636132383f7374796c653d666f722d7468652d6261646765266c6f676f3d6669726562617365266c6f676f436f6c6f723d626c61636b" alt="firebase" data-canonical-src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&amp;logo=firebase&amp;logoColor=black" style="max-width: 100%;"></a>
+<a href="https://www.oracle.com/java/" target="_blank">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" height="28" />
+</a>
+
+ <a target="_blank" rel="noopener noreferrer nofollow" href="https://angular.io/">
+  <img src="https://img.shields.io/badge/Angular-282C34?logo=angular&logoColor=DD0031" alt="Angular logo" title="Angular" height="25" />
+</a>
+
+<a href="https://vuejs.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Vue.js-35495E.svg?style=for-the-badge&logo=vue.js&logoColor=4FC08D" height="28" />
+</a>
+
    
 <br><br>
 Cheers,<br>
