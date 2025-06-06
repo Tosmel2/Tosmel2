@@ -137,6 +137,10 @@ to students with different abilities and I get more excited when they finally ge
 <a target="_blank" rel="noopener noreferrer nofollow">
     <img alt="Git logo" title="Git" height="25" src="https://img.shields.io/badge/Git-282C34?logo=git&amp;logoColor=F05032" style="max-width: 100%;">
 </a>
+
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" height="28" />
+</a>
  
 <a target="_blank" rel="noopener noreferrer nofollow">
     <img alt="Figma logo" title="Figma" height="25" src="https://img.shields.io/badge/Figma-282C34?logo=figma&amp;logoColor=F24E1E" style="max-width: 100%;">
@@ -155,6 +159,14 @@ to students with different abilities and I get more excited when they finally ge
 
  <a target="_blank" rel="noopener noreferrer nofollow" href="https://angular.io/">
   <img src="https://img.shields.io/badge/Angular-282C34?logo=angular&logoColor=DD0031" alt="Angular logo" title="Angular" height="25" />
+</a>
+
+<a href="https://www.djangoproject.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=django&logoColor=white" height="28" />
+</a>
+
+<a href="https://nestjs.com/" target="_blank">
+  <img src="https://img.shields.io/badge/NestJS-E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" height="28" />
 </a>
 
 <a href="https://vuejs.org/" target="_blank">
